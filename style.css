@@ -69,12 +69,14 @@ body {
 
 /* section 1 Ends here  */
 
-.featured-flowers {
-  text-align: center;
+/* .featured-flowers {
   width: 708px;
 
   background: #ffffff;
   padding: 200px 663px;
+}
+.featured-flowers-x {
+  text-align: center;
 }
 
 .flower-title {
@@ -82,5 +84,42 @@ body {
 }
 
 .flower-para {
-  color: rgb(174, 186, 196);
+  color: rgb(145, 157, 167);
+}
+
+.three_flowers {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+} */
+
+.section3 {
+  margin-top: 200px;
+  display: flex;
+  width: 1920px;
+  height: 550px;
+  flex-shrink: 0;
+
+  background-color: #fef6f8;
+}
+
+.sec3_both {
+  margin-top: 200px;
+  margin-left: 500px;
+  width: 500px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.para {
+  margin-top: 10px;
+}
+
+.btn-flower {
+  margin-top: 20px;
+}
+
+.sec3-right {
+  margin-top: 100px;
+  margin-left: 200px;
 }
