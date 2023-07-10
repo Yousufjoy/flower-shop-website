@@ -69,30 +69,6 @@ body {
 
 /* section 1 Ends here  */
 
-/* .featured-flowers {
-  width: 708px;
-
-  background: #ffffff;
-  padding: 200px 663px;
-}
-.featured-flowers-x {
-  text-align: center;
-}
-
-.flower-title {
-  font-size: 30px;
-}
-
-.flower-para {
-  color: rgb(145, 157, 167);
-}
-
-.three_flowers {
-  margin-top: 30px;
-  display: flex;
-  justify-content: space-between;
-} */
-
 .section3 {
   margin-top: 200px;
   display: flex;
@@ -122,4 +98,19 @@ body {
 .sec3-right {
   margin-top: 100px;
   margin-left: 200px;
+}
+
+.section4 {
+  margin-top: 200px;
+  width: 1920px;
+  height: 850px;
+}
+
+.section4_heading {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.section4_below {
+  text-align: center;
 }
