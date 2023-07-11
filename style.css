@@ -29,7 +29,7 @@ body {
 
   color: #272727;
   font-family: Lato;
-  font-size: 44px;
+  font-size: 40px;
   font-style: normal;
 }
 
@@ -227,4 +227,16 @@ input::placeholder {
 .thirty {
   margin-top: 10px;
   color: #27272799;
+}
+
+.section6 {
+  text-align: center;
+  color: white;
+  background-color: #111010;
+  margin-top: 200px;
+  width: 1922px;
+  height: 249px;
+  flex-shrink: 0;
+
+  padding-top: 128px;
 }
