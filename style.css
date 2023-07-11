@@ -242,7 +242,7 @@ input::placeholder {
 }
 
 .bonus {
-  background-image: url("/Flower Asset/bg.jpg");
+  background-image: url("./Flower Asset/bg.jpg");
   margin-top: 200px;
   width: 1922px;
   height: 449px;
