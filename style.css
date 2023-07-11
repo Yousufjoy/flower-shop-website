@@ -4,7 +4,8 @@
 }
 body {
   overflow-x: hidden;
-  font-family: "Open Sans", sans-serif;
+
+  font-family: "Lato", sans-serif;
 }
 
 /* section 1 starts from here  */
@@ -15,7 +16,7 @@ body {
   height: 850px;
   flex-shrink: 0;
 
-  background-color: rgba(229, 84, 115, 0.1);
+  background-color: #e554731a;
 }
 
 .section1-left-side {
@@ -260,5 +261,15 @@ input::placeholder {
 
 .blue {
   margin-right: 220px;
-  border-radius: 50% 20% 50% 20%;
+}
+
+.ExtraSection {
+  margin-top: 150px;
+  margin-left: 440px;
+  background-color: #2727270d;
+  width: 1035px;
+  height: 320px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
